@@ -1,3 +1,9 @@
+## Working in command line
+
+There are many great tutorials online that teach you the basics of working in the command line. One example you can find [here](https://documentation.ubuntu.com/desktop/en/latest/tutorial/the-linux-command-line-for-beginners/) or you can do the command line tutorial from the Habrok wiki that you can find [here](https://wiki.hpc.rug.nl/habrok/command_line/working_on_the_command_line_-_part_1). Below you will find the important commands that you will need to work on the cluster.
+
+---
+
 ## Connecting to the command line
 
 You need to open a terminal (also called the command line). This is a text-based interface where you type commands instead of clicking buttons.
@@ -9,7 +15,7 @@ Once your terminal is open, you can connect to the cluster using the login instr
 
 ---
 
-## Basic commands for navigating the command line
+## Basic commands for navigating 
 
 These are the most important commands you will use when working on the cluster:
 
